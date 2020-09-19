@@ -28,7 +28,6 @@ public class Day1 {
         System.out.println(s1);
         System.out.println(d1);
         System.out.println(a1);
-
     }
 }
 //zadanie stworzyć metodę która wypuszczała bby okreslone kody - decy,binare, hexy
