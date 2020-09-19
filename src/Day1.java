@@ -31,3 +31,4 @@ public class Day1 {
     }
 }
 //zadanie stworzyć metodę która wypuszczała bby okreslone kody - decy,binare, hexy
+//metody try, catch, finally, dobre przy niewelowaniu bledu przy wprowadzaniu danych z klawiatury np zamiast litery cyfra
